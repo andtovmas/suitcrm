@@ -1,0 +1,17 @@
+node_modules/
+.env
+loginAuth.json
+
+
+
+#media
+videos/
+screenshots/
+cypress/logs/
+reports/
+eslint-reports/
+logs/
+cypress/fixtures/downloads
+playwright-report/
+test-results/
+downloads/
